@@ -1,0 +1,91 @@
+.img
+{
+    width:10%;
+    height:10%;
+}
+.header
+{
+    text-align:center;
+    font-size:larger;
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    color:red;
+}
+.para
+{
+    text-align:center;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    color:blue;
+}
+.h
+{
+    text-align:center;
+    font-size:large;
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(159, 77, 77);
+}
+.para1
+{
+    text-align:center;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    color:blue;
+}
+.para2
+{
+    text-align:center;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    color:blue;
+}
+.btn1
+{
+    color:cadetblue;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn2
+{
+    color:cadetblue;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn3
+{
+    color:cadetblue;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn4
+{
+    color:cadetblue;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn5
+{
+    color:cadetblue;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn6
+{
+    color:cadetblue;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul
+{
+    list-style:none;
+}

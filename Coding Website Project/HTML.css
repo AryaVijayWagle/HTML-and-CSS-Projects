@@ -1,0 +1,55 @@
+.header
+{
+    font-size:larger;
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:red;
+}
+.h
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h1
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.para
+{
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+.para1
+{
+    font-size:medium;
+    font-weight:900;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+.para2
+{
+    font-size:medium;
+    font-weight:900;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+.btn
+{
+    color:cadetblue;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

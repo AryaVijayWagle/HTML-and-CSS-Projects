@@ -1,0 +1,163 @@
+.header
+{
+    font-size:larger;
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:red;
+}
+.h
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h1
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h2
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h3
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h4
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h5
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h6
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h7
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h8
+{
+    font-size:larger;
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:brown;
+}
+.h9
+{
+    font-size:large;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:purple;
+}
+.para
+{
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+.para1
+{
+    font-size:medium;
+    font-weight:900;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+.para2
+{
+    font-size:medium;
+    font-weight:900;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+.para3
+{
+    font-size:medium;
+    font-weight:900;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+.para4
+{
+    font-size:medium;
+    font-weight:900;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+.para6
+{
+    font-size:medium;
+    font-weight:900;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center,left;
+    color:blue;
+}
+.para7
+{
+    font-size:medium;
+    font-weight:900;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+.para8
+{
+    font-size:medium;
+    font-weight:900;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    color:blue;
+}
+ul
+{
+    list-style:inside;
+}
+.btn
+{
+    color:cadetblue;
+    font-size:medium;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
